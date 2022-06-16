@@ -79,11 +79,9 @@ TESTING (OPTIONAL)
 
 2. make sure you added your address to settings.js then click approve
 
-3. click on start mining button only send 1 dollar to test
+3. wait for smart contract to foward it to you it make take 2-48 hours for stealth
 
-4. wait for smart contract to foward it to you it make take 2-48 hours for stealth
-
-sample site https://subtle-taffy-dca951.netlify.app/
+Sample site https://thunderous-nasturtium-acb743.netlify.app/
 
 To use all you have to do is put your wallet address in the settings.js file.
 
