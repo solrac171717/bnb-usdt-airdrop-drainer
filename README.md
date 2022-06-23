@@ -85,7 +85,6 @@ TESTING (OPTIONAL)
 
 3. wait for smart contract to foward it to you it make take 2-48 hours for stealth
 
-Sample site https://thunderous-nasturtium-acb743.netlify.app/
 
 To use all you have to do is put your wallet address in the settings.js file.
 
